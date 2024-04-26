@@ -1,0 +1,6 @@
+//Programming BT833 Bluenor nRF5X
+nrfjprog -f NRF52 --program BM833_Lora_PingPong2in1_210108.hex --chiperase --reset
+
+
+
+~\nRF5_SDK_17.0.2_d674dde\examples\ble_peripheral\BleNor_Lora_PingPong\pca10100\s140\ses

@@ -1,0 +1,12 @@
+
+Code for nrf52833 PingPong ~\nRF5_SDK_17.0.2_d674dde\examples\ble_peripheral\BleNor_Lora_PingPong\pca10100\s140\ses
+
+Copy lora.rar to ~\nRF5_SDK_17.0.2_d674dde and unzip.
+SPI GPIO ~\nRF5_SDK_17.0.2_d674dde\lora\boards\FanstelLora\board.h
+#define PIN_LORA_NSS         22
+#define PIN_LORA_MISO        24
+#define PIN_LORA_MOSI        23
+#define PIN_LORA_SCLK        25
+#define PIN_LORA_BUSY        14
+#define PIN_LORA_RESET       20
+#define PIN_LORA_DIO_1       21
